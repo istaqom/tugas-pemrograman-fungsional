@@ -1,7 +1,5 @@
 def is_palindrome(word):
-    palindrome = str()
-    for i in word[::-1]:
-        palindrome += i
+    palindrome = word[::-1]
     if palindrome == word:
         return "True"
     else:
