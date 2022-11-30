@@ -17,8 +17,8 @@ Factory     | <img src="img/fact.png"/>
 Method | Hasil
 ------|------
 Decorator     | <img src="img/deco.png"/>
-<!-- 2     | <img src="img/2-1.png"/><img src="img/2-2.png"/>
-3     | <img src="img/3.png"/> -->
+State     | <img src="img/state.png"/>
+<!-- 3     | <img src="img/3.png"/> -->
 
 # Behavioral
 Method | Hasil
