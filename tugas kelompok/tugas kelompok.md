@@ -18,7 +18,7 @@ Method | Hasil
 ------|------
 Decorator     | <img src="img/deco.png"/>
 Proxy     | <img src="img/proxy.png"/>
-<!-- 3     | <img src="img/3.png"/> -->
+Adapter     | <img src="img/adapt.png"/>
 
 # Behavioral
 Method | Hasil
